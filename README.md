@@ -64,3 +64,7 @@ java Client
 This project introduces essential Java networking concepts, including socket programming, input/output stream management, and thread-based concurrency. It lays a strong foundation for understanding how real-time communication systems operate at a lower level using the TCP/IP protocol stack. By creating a working text-based chat tool, developers are exposed to the client-server model, blocking communication, and message synchronization.
 
 This system mimics the architecture behind chat applications, online games, messaging servers, and collaborative tools. It is an excellent starting point for students and developers interested in distributed systems, multithreaded programming, or real-time software development. It also provides a strong base for future enhancements like multi-client support, GUI integration, or protocol security.
+
+##OUTPUT:
+![Image](https://github.com/user-attachments/assets/4895f9b6-2fd2-4a6a-ac95-c6dd40558154)
+
