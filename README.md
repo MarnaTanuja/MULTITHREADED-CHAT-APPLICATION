@@ -70,5 +70,14 @@ This system mimics the architecture behind chat applications, online games, mess
 
 ![Image](https://github.com/user-attachments/assets/44b04cbd-fdce-4ec2-bb0a-e0d9d0b836b2)
 
+![Image](https://github.com/user-attachments/assets/01b13442-c982-4c13-ad6b-928521f0e3d6)
+
+![Image](https://github.com/user-attachments/assets/a24f4068-945d-435a-ac38-9418b0043b6c)
+
+![Image](https://github.com/user-attachments/assets/5d543a7d-f419-4012-9508-c351a5894500)
+
+![Image](https://github.com/user-attachments/assets/1f1412cc-aaf7-443f-8961-f839e831c0d8)
+
+
 
 
